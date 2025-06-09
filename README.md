@@ -46,7 +46,7 @@ ttc-delay-app/
 
 ## 🚀 How to Run
 
-1. git clone https://github.com/shiv317ttc-delay-app.git
+1. git clone https://github.com/shiv317/ttc-delay-app.git
 cd ttc-delay-app
 
 2. python -m venv venv
